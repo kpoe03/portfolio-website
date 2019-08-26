@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["\/Wk1T"]); }
+
+__d("XIdentityBadgesInfomationDialogController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/identity_badge/information_dialog/init/",{badges:{type:"String"},comment_id:{type:"FBID"}})}),null);
+__d("legacy:PhotoTagger",["PhotoTagger"],(function(a,b,c,d,e,f){a.PhotoTagger=b("PhotoTagger")}),3);
